@@ -1,2 +1,4 @@
 dev
 master修改了这个文件
+feature1
+解决完冲突
